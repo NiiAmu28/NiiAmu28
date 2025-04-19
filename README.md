@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Nii Amu Ankrah (@NiiAmu28)  
 
-I’m a passionate Electrical Engineering student and a software developer driven by the desire to build innovative tech solutions that solve real-world problems. My journey spans across AI, web and mobile app development, computer networking, and electrical engineering. I love transforming complex ideas into functional applications, and I’m always eager to learn and grow along the way.  
+I’m a passionate Electrical Engineering student and a software developer driven by the desire to build innovative tech solutions that solve real-world problems. My journey spans across AI, web and mobile app development, computer networking, and Electrical/Electronics engineering. I love transforming complex ideas into functional applications, and I’m always eager to learn and grow along the way.  
 
  ## 👀 I’m interested in:  
 - Artificial Neural Networks (ANNs) and Machine Learning  
@@ -10,9 +10,10 @@ I’m a passionate Electrical Engineering student and a software developer drive
 - Game development and exploring Unity  
 
 ## 🌱 I’m currently learning:  
+- BSc Electrical/Electronics Engineering
 - Advanced AI models for battery lifespan prediction  
-- Real-time tracking systems using Mapbox  
-- Building AI assistants in Unity  
+- Cloud computing  
+- Building AI simulated realities in Unity  
 - Unreal Engine 5.5 for hyper-realistic 3D modeling  
 
 ## 💞️ I’m looking to collaborate on:  
